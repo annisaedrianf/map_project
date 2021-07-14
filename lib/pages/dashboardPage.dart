@@ -20,9 +20,9 @@ class DashboardPage extends StatelessWidget {
             children: <Widget>[
               dashboardItem('CREATE SCHEDULE', Icons.add),
               dashboardItem('SCHEDULE', Icons.book),
-              dashboardItem('REMINDER', Icons.notifications_active_rounded),
-              dashboardItem('CALENDAR', Icons.calendar_today),
-              dashboardItem('HOMEWORK TRACKER', Icons.check_box),
+              // dashboardItem('REMINDER', Icons.notifications_active_rounded),
+              // dashboardItem('CALENDAR', Icons.calendar_today),
+              // dashboardItem('HOMEWORK TRACKER', Icons.check_box),
             ],
           ),
         ));
